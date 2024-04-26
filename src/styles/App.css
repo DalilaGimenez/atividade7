@@ -1,0 +1,31 @@
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.button-enviar{
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  margin: 0 auto;
+  background-color: black;
+  color: red;
+}
+
+.App {
+  align-items: center;
+}
